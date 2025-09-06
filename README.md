@@ -26,5 +26,5 @@
 <p align="center"><a href="https://github.com/SovannaraHong" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif" /></a></p>
 
 
-<img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=SovannaraHong&color=ff69b4&style=for-the-badge" />
+<img alt="Nara view count" width="20%" src="https://komarev.com/ghpvc/?username=SovannaraHong&color=ff69b4&style=for-the-badge" />
 <br/>
