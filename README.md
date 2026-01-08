@@ -24,10 +24,17 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💻 Language:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### 🛠 Tools & IDEs
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2C2C32?style=for-the-badge&logo=intellijidea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-00CDD7?style=for-the-badge&logo=webstorm&logoColor=black)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-777BB4?style=for-the-badge&logo=phpstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SovannaraHong&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <p align="center"><a href="https://github.com/SovannaraHong" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif" /></a></p>
 
