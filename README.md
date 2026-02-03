@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Sovannara Hong!
 🎓 I'm a 3 year Mangement Information System student at SETEC (Setec institute). <br />
 🧑‍🏫 Former Frontend Development & Backend Developer & Graphic Design.<br />
-🌐 Also working as an online Graphic design.<br />
 📹 And yes — I'm a content creator too!
 <br />
 ✨ I’m passionate about learning, building, and sharing.<br />
