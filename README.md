@@ -22,13 +22,9 @@
 	
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=SovannaraHong&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="stats graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovannaraHong&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="languages graph" />
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SovannaraHong/SovannaraHong/output/pacman-contribution-graph-dark.svg">
@@ -36,10 +32,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SovannaraHong/SovannaraHong/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
 
 
----
 [![](https://visitcount.itsvg.in/api?id=SovannaraHong&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center"><a href="https://github.com/SovannaraHong" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif" /></a></p>
