@@ -24,8 +24,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SovannaraHong&show_icons=true&theme=tokyonight" alt="Stats Graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovannaraHong&layout=compact&theme=tokyonight" alt="Languages Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=SovannaraHong&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="stats graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovannaraHong&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="languages graph" />
 
 <br/>
 
