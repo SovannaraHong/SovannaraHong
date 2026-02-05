@@ -1,3 +1,14 @@
+
+
+
+![Hunter Akira](https://img.shields.io/badge/Hunter_Akira-FullStackDeveloper-blue?style=for-the-badge&logo=appveyor)
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAxc25rMWMzMWVocjV0NGE5ejVzYzdybnp1b21nemM1MHpsMmc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggaDSurtR6YN9MsW07/giphy.gif" alt="Banner" width="100%" />
+
+
+---
+
+
 ### Hi there 👋 I'm Sovannara Hong!
 🎓 I'm a 3 year Mangement Information System student at SETEC (Setec institute). <br />
 🧑‍🏫 Former Frontend Development & Backend Developer & Graphic Design.<br />
@@ -23,6 +34,7 @@
 </div>
 
 ---
+
 
 
 
