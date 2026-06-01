@@ -65,10 +65,9 @@
 
 ---
 
-![Top language](https://stats.pphat.top/languages?username=sovannarahong)
-<br/>
-
-
+<p style="display: flex; justify-content: center; width: 100%; margin: 20px 0;">
+  <img src="https://stats.pphat.top/languages?username=sovannarahong" style="width:100%" alt="Top language">
+</p>
 
 
 ---
