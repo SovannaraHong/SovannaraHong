@@ -50,7 +50,7 @@
 ## 👥 **SHADOW ARMY** (Tech Stack)
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,laravel,php,kafka,redis" /><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,laravel,php" /><br/>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,react,kotlin"/><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,postman,npm"/><br/>
 <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm" />
@@ -60,6 +60,7 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/junit.png" width="42" title="JUnit"/>
 <img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" title="Mockito"/>
 <img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger"/>
+
 </div>
 
 ---
