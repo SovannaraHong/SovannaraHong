@@ -65,6 +65,49 @@
 <img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger"/>
 
 </div> -->
+
+
+<img src="https://img.shields.io/badge/📊_LANGUAGES-000000?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=java,php,html,css,js,ts" />
+<img src="https://img.shields.io/badge/⚛️_FRONTEND-38BDF8?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind" />
+
+<img src="https://img.shields.io/badge/🍃_BACKEND-6DB33F?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=spring,laravel,hibernate,maven" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="42" title="Spring Security"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/liquibase.png" width="42" title="Liquibase"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/lombok.png" width="42" title="Lombok"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jwt-io.svg" width="42" title="JWT"/>
+</div>
+
+<img src="https://img.shields.io/badge/🗄️_DATABASE_&_DEVOPS-4169E1?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,postman,npm"/>
+
+<img src="https://img.shields.io/badge/🖥️_OS_&_IDEs-FCC624?style=for-the-badge" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm" />
+</div>
+<br/>
+<img src="https://img.shields.io/badge/🧪_TESTING_&_API_DOCS-25A162?style=for-the-badge" />
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" title="Mockito"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/junit.png" width="42" title="JUnit"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mapstruct.png" width="42" title="MapStruct"/>
+  <img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger"/>
+</div>
+
+---
+
+<p style="display: flex; justify-content: center; width: 100%; margin: 20px 0;">
+  <img src="https://stats.pphat.top/languages?username=sovannarahong" style="width:100%" alt="Top language">
+</p>
+
+---
+
+<img alt="Nara view count" width="20%" src="https://komarev.com/ghpvc/?username=SovannaraHong&color=ff69b4&style=for-the-badge" />
 <div align="center">
 
 <!-- Tools, Security & Testing -->
