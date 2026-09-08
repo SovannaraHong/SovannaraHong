@@ -99,47 +99,8 @@
   <img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger"/>
 </div>
 
----
-
-<p style="display: flex; justify-content: center; width: 100%; margin: 20px 0;">
-  <img src="https://stats.pphat.top/languages?username=sovannarahong" style="width:100%" alt="Top language">
-</p>
-
----
-
-<img alt="Nara view count" width="20%" src="https://komarev.com/ghpvc/?username=SovannaraHong&color=ff69b4&style=for-the-badge" />
-<div align="center">
-
-<!-- Tools, Security & Testing -->
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jwt-io.svg" width="42" title="JWT"/>
-<img src="https://skillicons.dev/icons?i=hibernate,maven" />
-<img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="42" title="Spring Security"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/liquibase.png" width="42" title="Liquibase"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/lombok.png" width="42" title="Lombok"/>
 
 
-<br/>
-
-<!-- Languages & Backend Frameworks -->
-<img src="https://skillicons.dev/icons?i=java,spring,angular,react,laravel,php" />
-<br/>
-
-<!-- Frontend Languages & Frameworks -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,kotlin"/>
-<br/>
-
-<!-- Databases & DevOps -->
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,postman,npm"/>
-<br/>
-
-<!-- OS & IDEs -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="margin: 8px;" alt="Linux" />
-<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm" />
-<img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" title="Mockito"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/junit.png" width="42" title="JUnit"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mapstruct.png" width="42" title="MapStruct"/>
-<img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger"/>
-</div>
 
 ---
 
