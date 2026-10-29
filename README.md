@@ -17,7 +17,7 @@
 ║  NAME: Hong Sovannara                                    ║
 ║  ALIAS: Hunter Akira                                     ║
 ║  RANK: S-CLASS DEVELOPER                                 ║
-║  LEVEL: 3rd Year (Advanced Scholar)                      ║
+║  LEVEL: 4rd Year (Advanced Scholar)                      ║
 ║  CLASS: Full-Stack Creator & MIS Strategist              ║
 ║  GUILD: SETEC Institute                                  ║
 ║  SPECIALTY: Web Development & Visual Design              ║
@@ -123,7 +123,7 @@
 # 🚀 Featured Projects
 
 ## ☕ Coffee Shop — Ordering & Admin Platform
-**Full-stack · Spring Boot + Angular · Keycloak · KHQR payments**
+**Full-stack · Spring Boot + Angular · Keycloak · ABA PAYWAY · KHQR payments**
 
 A complete coffee-shop system with a customer ordering site and a staff admin dashboard. The backend covers products with variants and add-ons, recipes and ingredient inventory, suppliers, purchase orders, stock adjustments, reviews and an audit log. Access is controlled with Keycloak (OAuth2/JWT) and role & permission management. It also includes Redis caching, Bucket4j rate limiting, KHQR payments, Telegram order notifications and S3 image storage. The frontend is an Angular workspace with two apps (an SSR customer site and an admin dashboard) sharing common libraries.
 
@@ -134,7 +134,7 @@ A complete coffee-shop system with a customer ordering site and a staff admin da
 ---
 
 ## 🛒 Retail POS System
-**Laravel API + Next.js dashboard · JWT · Role-based access**
+**Laravel API + Next.js dashboard · JWT · Role-based access · BAKONG · KHQR**
 
 A retail point-of-sale and management system. The Laravel REST API covers products, brands, categories, suppliers, customers, purchases, sales, sale returns, payments, cashier shifts, stock movements and expenses. Authentication uses JWT, and Spatie roles and permissions drive a permission-gated Next.js dashboard. The whole stack runs with Docker Compose (Nginx, MySQL, PHP, Node). *In active development.*
 
