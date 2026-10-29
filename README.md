@@ -123,13 +123,13 @@
 # 🚀 Featured Projects
 
 ## ☕ Coffee Shop — Ordering & Admin Platform
-**Full-stack · Spring Boot + Angular · Keycloak · ABA PAYWAY · KHQR payments**
+**Full-stack · Spring Boot + Angular · Keycloak · ABA PAYWAY· KHQR payments**
 
 A complete coffee-shop system with a customer ordering site and a staff admin dashboard. The backend covers products with variants and add-ons, recipes and ingredient inventory, suppliers, purchase orders, stock adjustments, reviews and an audit log. Access is controlled with Keycloak (OAuth2/JWT) and role & permission management. It also includes Redis caching, Bucket4j rate limiting, KHQR payments, Telegram order notifications and S3 image storage. The frontend is an Angular workspace with two apps (an SSR customer site and an admin dashboard) sharing common libraries.
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white) ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=SovannaraHong&repo=coffee-shop-backend&theme=dark)](https://github.com/SovannaraHong/coffee-shop-backend) [![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=SovannaraHong&repo=coffee-shop-frontend&theme=dark)](https://github.com/SovannaraHong/coffee-shop-frontend)
+[🔗 Backend — coffee-shop-backend](https://github.com/SovannaraHong/coffee-shop-backend)  ·  [🔗 Frontend — coffee-shop-frontend](https://github.com/SovannaraHong/coffee-shop-frontend)
 
 ---
 
@@ -140,7 +140,7 @@ A retail point-of-sale and management system. The Laravel REST API covers produc
 
 ![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SovannaraHong&repo=retail-pos-system&theme=dark)](https://github.com/SovannaraHong/retail-pos-system)
+[🔗 Source Code — retail-pos-system](https://github.com/SovannaraHong/retail-pos-system)
 
 ---
 
@@ -151,7 +151,7 @@ An inventory and sales system for a phone store. The backend manages brands, mod
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=SovannaraHong&repo=phone_shop&theme=dark)](https://github.com/SovannaraHong/phone_shop) [![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=SovannaraHong&repo=phoneshop-front-end&theme=dark)](https://github.com/SovannaraHong/phoneshop-front-end)
+[🔗 Backend — phone_shop](https://github.com/SovannaraHong/phone_shop)  ·  [🔗 Frontend — phoneshop-front-end](https://github.com/SovannaraHong/phoneshop-front-end)
 
 ---
 
@@ -162,7 +162,7 @@ A restaurant point-of-sale app with a food-ordering screen (category tabs, produ
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=SovannaraHong&repo=Midterm-Java&theme=dark)](https://github.com/SovannaraHong/Midterm-Java) [![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=SovannaraHong&repo=Vue-front-midterm&theme=dark)](https://github.com/SovannaraHong/Vue-front-midterm)
+[🔗 Backend — Midterm-Java](https://github.com/SovannaraHong/Midterm-Java)  ·  [🔗 Frontend — Vue-front-midterm](https://github.com/SovannaraHong/Vue-front-midterm)
 ---
 
 
